@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Takahiro Shirouzu</h1>
+<h1 align="center">Takahiro Shirouzu</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shirouzutakahiro44&label=Profile%20views&color=0e75b6&style=flat" alt="shirouzutakahiro44" /> </p>
